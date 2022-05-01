@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cunla&theme=dark&show_icons=true&hide=contribs,prs">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cunla&theme=radical&show_icons=true">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunla&layout=compact&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunla&layout=compact&theme=radical">
 </p>
 
 # 🔭 I’m currently working on ...

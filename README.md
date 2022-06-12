@@ -1,22 +1,24 @@
 
 # Daniel Moran 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cunla&theme=radical&show_icons=true">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunla&layout=compact&theme=radical">
 </p>
 
 # 🔭 I’m currently working on ...
 A forum software for enterprises, similar to stackoverflow, with support of markdown on Q&A, comments and full text search.
-
+![](https://github-readme-stats.vercel.app/api/pin/?username=dsoftwareinc&repo=fakeredis-py&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=dsoftwareinc&repo=django-rq-scheduler&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=dsoftwareinc&repo=github-actions-tab&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=dsoftwareinc&repo=wiwik-issues&theme=radical)
 
 ## Technologies I work with
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/spring-boot.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 

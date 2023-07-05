@@ -7,18 +7,14 @@ Hi, I’m Daniel! I’m a software engineer who loves:
 * Building open source libraries, such as [fakeredis](https://github.com/cunla/fakeredis-py), [django-rq-scheduler](https://github.com/dsoftwareinc/django-rq-scheduler)
 * Building products (full stack)
 * Building developer tooling, such as [GitHub Actions Manager for JetBrains IDEs](https://github.com/cunla/ghactions-manager)
-* 🤔 I’m looking for help with releasing a knowledge management system I am developing as a sponsorware.
-
-## Hiring me
-
-You can hire me for your projects via my company D-Software. 
-
-My clients vary from big companies to start-ups and everything in between.
+* I am currently working on a Q&A knowledge management system for organizations, see a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)
 
 ## 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Am6fXQ9QCeCrFgLCufiuw%3D%3D)
+Please don't hesitate to contact me if you're interested in hiring my services, have any questions regarding my projects, or anything else you'd like to discuss. 
+My clients vary from big companies to start-ups and everything in between.
 
+- [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Am6fXQ9QCeCrFgLCufiuw%3D%3D)
 - [Keybase](https://keybase.io/danielmoran)
 
 ## Technologies I work with

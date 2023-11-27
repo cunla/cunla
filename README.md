@@ -4,7 +4,7 @@
 Hi, I’m Daniel! I’m a software engineer who loves:
 
 * Simplifying things
-* Building open source libraries, such as [fakeredis](https://github.com/cunla/fakeredis-py), [django-rq-scheduler](https://github.com/dsoftwareinc/django-rq-scheduler)
+* Building open source libraries, such as [fakeredis](https://github.com/cunla/fakeredis-py), [django-tasks-scheduler](https://github.com/dsoftwareinc/django-tasks-scheduler)
 * Building products (full stack)
 * Building developer tooling, such as [GitHub Actions Manager for JetBrains IDEs](https://github.com/cunla/ghactions-manager)
 * I am currently working on a Q&A knowledge management system for organizations. You can try a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)

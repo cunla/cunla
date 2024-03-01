@@ -1,13 +1,20 @@
+# Daniel Moran
+<a href="https://polar.sh/cunla/subscribe">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=cunla&label=Subscribe&darkmode">
+      <img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=cunla&label=Subscribe">
+    </picture>
+</a>
 
-# Daniel Moran 
+Hi, I’m Daniel! I’m a software engineer who loves simplifying things and creating tools that help developers.
 
-Hi, I’m Daniel! I’m a software engineer who loves:
+* I am maintaining a few open-source libraries and tools:
+  * [fakeredis](https://github.com/cunla/fakeredis-py)
+  * [django-tasks-scheduler](https://github.com/dsoftwareinc/django-tasks-scheduler)
+  * [GitHub Actions Manager for JetBrains IDEs](https://github.com/cunla/ghactions-manager)
+* I am currently working on a Q&A knowledge management system for organizations. <!-- You can try a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)-->
 
-* Simplifying things
-* Building open source libraries, such as [fakeredis](https://github.com/cunla/fakeredis-py), [django-tasks-scheduler](https://github.com/dsoftwareinc/django-tasks-scheduler)
-* Building products (full stack)
-* Building developer tooling, such as [GitHub Actions Manager for JetBrains IDEs](https://github.com/cunla/ghactions-manager)
-* I am currently working on a Q&A knowledge management system for organizations. You can try a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)
+
 
 ## 📫 How to reach me:
 
@@ -52,12 +59,10 @@ My clients vary from big companies to start-ups and everything in between.
 
 Here are some ideas to get you started:
 
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

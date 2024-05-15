@@ -8,21 +8,22 @@
 
 Hi, I’m Daniel! I’m a software engineer who loves simplifying things and creating tools that help developers.
 
-* I am maintaining a few open-source libraries and tools:
+* I am maintaining a few libraries and tools:
   * [fakeredis](https://github.com/cunla/fakeredis-py)
   * [django-tasks-scheduler](https://github.com/dsoftwareinc/django-tasks-scheduler)
-  * [GitHub Actions Manager for JetBrains IDEs](https://github.com/cunla/ghactions-manager)
+  * [GitHub Actions Manager for JetBrains IDEs](https://github.com/dsoftwareinc/ghactions-manager)
 * I am currently working on a Q&A knowledge management system for organizations. <!-- You can try a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)-->
 
+## Services Offered
+
+* **Tailored Software Solutions**: Seamlessly implement even the most intricate software requirements tailored to your specific needs.
+* **JetBrains IDE Plugin Development**: Craft custom JetBrains IDE plugins to elevate productivity, enhance developer experience, and streamline workflow within your organization.
+* **CI/CD Optimization**: Refine and optimize your development team's Continuous Integration/Continuous Deployment (CI/CD) processes to ensure efficient and reliable software delivery. e.g., implement mechanisms within your CI/CD pipeline to uphold stringent code quality standards.
+* **Architectural Design**: Strategically design architectures for new services, whether building upon existing legacy systems or developing from scratch, to meet evolving business demands and technological advancements.
 
 
-## 📫 How to reach me:
-
-Please don't hesitate to contact me if you're interested in hiring my services, have any questions regarding my projects, or want to discuss anything else. 
-My clients vary from big companies to start-ups and everything in between.
-
-- [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Am6fXQ9QCeCrFgLCufiuw%3D%3D)
-- [Keybase](https://keybase.io/danielmoran)
+Feel free to reach out to discuss how I can contribute to your project's success or inquire about my past endeavours. My clientele spans from industry giants to budding startups, and I'm adept at catering to diverse business landscapes.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Am6fXQ9QCeCrFgLCufiuw%3D%3D) to explore collaboration opportunities and delve deeper into your requirements.
 
 ## Technologies I work with
 

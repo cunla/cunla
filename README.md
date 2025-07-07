@@ -12,7 +12,6 @@ Hi, I’m Daniel! I’m a software engineer who loves simplifying things and cre
   * [fakeredis](https://github.com/cunla/fakeredis-py)
   * [django-tasks-scheduler](https://github.com/dsoftwareinc/django-tasks-scheduler)
   * [GitHub Actions Manager for JetBrains IDEs](https://github.com/dsoftwareinc/ghactions-manager)
-* I am currently working on a Q&A knowledge management system for organizations. <!-- You can try a showcase on [wiwik.moransoftware.ca](wiwik.moransoftware.ca)-->
 
 ## Services Offered
 
@@ -23,7 +22,7 @@ Hi, I’m Daniel! I’m a software engineer who loves simplifying things and cre
 
 
 Feel free to reach out to discuss how I can contribute to your project's success or inquire about my past endeavours. My clientele spans from industry giants to budding startups, and I'm adept at catering to diverse business landscapes.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Am6fXQ9QCeCrFgLCufiuw%3D%3D) to explore collaboration opportunities and delve deeper into your requirements.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/) to explore collaboration opportunities and delve deeper into your requirements.
 
 ## Technologies I work with
 
@@ -51,6 +50,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-moran-8a096a15/
 ![](https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticstack)
 
 ![](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/helm-%23bbbbbb.svg?style=for-the-badge&logo=helm&logoColor=blue)
 ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 

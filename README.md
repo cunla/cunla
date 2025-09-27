@@ -1,10 +1,4 @@
 # Daniel Moran
-<a href="https://polar.sh/cunla/subscribe">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=cunla&label=Subscribe&darkmode">
-      <img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=cunla&label=Subscribe">
-    </picture>
-</a>
 
 Hi, I’m Daniel! I’m a software engineer who loves simplifying things and creating tools that help developers.
 

@@ -17,7 +17,7 @@ I maintain and contribute to widely used open-source tooling:
 
 * [**FakeRedis**](https://github.com/cunla/fakeredis-py) — an in-memory implementation of the Redis API for testing
   Python code without running a Redis server; fully compatible with redis-py.
-  ![PyPI downloads per month](https://img.shields.io/pypi/dm/fakeredis?label=downloads)
+  ![PyPI total downloads](https://img.shields.io/pepy/dt/fakeredis?label=downloads)
 * [**GitHub Actions Manager**](https://github.com/dsoftwareinc/ghactions-manager) — JetBrains IDE plugin (Kotlin) for
   managing GitHub Actions workflows without leaving the IDE.
   ![JetBrains Marketplace downloads](https://img.shields.io/jetbrains/plugin/d/com.dsoftware.ghtoolbar?label=downloads)

@@ -23,7 +23,7 @@ I maintain and contribute to widely used open-source tooling:
   ![JetBrains Marketplace downloads](https://img.shields.io/jetbrains/plugin/d/com.dsoftware.ghtoolbar?label=downloads)
 * [**Django Commons**](https://github.com/django-commons) — board member of an organization supporting the maintenance
   of open-source packages; org management (100+ members, 15 projects) automated with Terraform and GitHub Actions.
-* [**django-tasks-scheduler**](https://github.com/dsoftwareinc/django-tasks-scheduler) — schedule, run, and monitor
+* [**django-tasks-scheduler**](https://github.com/django-commons/django-tasks-scheduler) — schedule, run, and monitor
   background jobs (one-off, repeating, and cron) from the Django admin.
 * [**wiwik**](https://github.com/dsoftwareinc/wiwik) — a Q&A knowledge base where engineering teams ask, share, and
   learn about their own technology (Django, Postgres, Redis, Kubernetes, Helm, Slack API).

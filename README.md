@@ -1,6 +1,5 @@
 Hi, I’m Daniel — a senior software engineer with 20+ years building and shipping production systems, most recently on
-contract for **Chick-fil-A** and **Audible (Amazon)**. I love simplifying things and creating tools that help
-developers.
+contract for **Audible (Amazon)**. I love simplifying things and creating tools that help developers.
 
 **Available for remote contract and project-based work** —
 [daniel@moransoftware.ca](mailto:daniel@moransoftware.ca) ·
